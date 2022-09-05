@@ -17,4 +17,4 @@ Education
 
 Award
 ======
-* 2022.8.23-26：Oral Award in Summer School of Young Japanese Astronomers 2022
+* 2022.8.23-26: Oral Award in Summer School of Young Japanese Astronomers 2022
