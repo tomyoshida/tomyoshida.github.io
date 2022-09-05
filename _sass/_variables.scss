@@ -54,13 +54,30 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+//$background-color           : #fff;
+//$code-background-color      : #fafafa;
+//$code-background-color-dark : $light-gray;
+//$text-color                 : $dark-gray;
+//$border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+//$primary-color              : #7a8288;
+
+$background-color: #252a34 !default;
+$text-color: #eaeaea !default;
+$primary-color: #00adb5 !default;
+$border-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: mix(#000, $background-color, 30%) !default;
+$link-color: mix($primary-color, $text-color, 40%) !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -90,11 +107,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+//$link-color                 : $info-color;
+//$link-color-hover           : mix(#000, $link-color, 25%);
+//$link-color-visited         : mix(#fff, $link-color, 25%);
+//$masthead-link-color        : $primary-color;
+//$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
 /*

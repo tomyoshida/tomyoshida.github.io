@@ -146,13 +146,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets
 
 keep_files:
   - .git
@@ -273,9 +266,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#remote_theme           : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # mimic GitHub Pages with --safe
 whitelist:
