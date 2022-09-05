@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomohiro Yoshida / Grad Student at NAOJ"
+title                    : "Tomohiro Yoshida / 吉田 有宏"
 title_separator          : "-"
 name                     : &name "Tomohiro Yoshida"
 description              : &description "I am a graduate student at NAOJ / SOKENDAI, Japan."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tomohiro Yoshida"
   avatar           : "tomyoshida.jpg"
-  bio              : "Protoplanetary disk / Astrochemistry"
+  bio              : "Observations of protoplanetary disks - 原始惑星系円盤の観測的研究"
   location         : "Mitaka, Tokyo"
   employer         :
   pubmed           :
