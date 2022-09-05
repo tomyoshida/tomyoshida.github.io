@@ -23,14 +23,14 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
-**(10)** 分子ガス同位体比の新しい測定手法を用いたTW Hyaまわりの原子惑星系円盤における不均一な<sup>12</sup>CO/<sup>13</sup>CO比の発見 >br>
+**(10)** 分子ガス同位体比の新しい測定手法を用いたTW Hyaまわりの原子惑星系円盤における不均一な<sup>12</sup>CO/<sup>13</sup>CO比の発見 <br>
 **吉田 有宏** <br>
 口頭, 2022年度第52回 天文・天体物理若手夏の学校,  <br>
 2022年8月24日, オンライン
 
-**(9)** 分子ガス同位体比の新しい測定手法を用いたTW Hyaまわりの原子惑星系円盤における不均一な<sup>12</sup>CO/<sup>13</sup>CO比の発見 >br>
+**(9)** 分子ガス同位体比の新しい測定手法を用いたTW Hyaまわりの原子惑星系円盤における不均一な<sup>12</sup>CO/<sup>13</sup>CO比の発見 <br>
 **吉田 有宏**, 野村 英子, 古家 健次, 塚越 崇, Seokho Lee <br>
-口頭, 日本地球惑星科学連合(JpGU)2022年大会, セッション:宇宙における物質の形成と進化(PCG20-04) <br>
+口頭, 日本地球惑星科学連合(JpGU)2022年大会, セッション:宇宙における物質の形成と進化 (PCG20-04) <br>
 2022年5月27日, 幕張メッセ+オンライン
 
 **(8)** 分子ガス同位体比の新しい測定手法を用いたTW Hyaまわりの原子惑星系円盤における不均一な<sup>12</sup>CO/<sup>13</sup>CO比の発見 <br>
