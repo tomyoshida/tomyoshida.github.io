@@ -1,5 +1,5 @@
 ---
-permalink: /ja/
+permalink: /
 title: "吉田有宏って誰？"
 excerpt: "About me"
 author_profile: true
