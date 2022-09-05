@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of CV will be uploaded soon!
+
 Education
 ======
 * B.S. in Science, Kyoto University, 2020
