@@ -3,9 +3,6 @@ permalink: /
 title: "吉田有宏って誰？"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /ja/about/
-  - /ja/about.html
 ---
 
 こんにちは、私は 吉田 有宏 (よしだ ともひろ) です。[総合研究大学院大学物理化学研究科天文科学専攻](https://guas-astronomy.jp)の5年一貫制博士課程2年で、
