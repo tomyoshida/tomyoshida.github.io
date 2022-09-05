@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja).
 
 ## Lead-Author Papers
 **(2)** [A New Method for Direct Measurament of Isotopologue Ratios in Protoplanetary Disks: A Case Study of the <sup>12</sup>CO/<sup>13</sup>CO Ratio in the TW Hya Disk](https://ui.adsabs.harvard.edu/abs/2022arXiv220408330Y/abstract) <br>

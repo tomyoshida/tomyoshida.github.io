@@ -9,5 +9,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "日本語"
-    url: /ja/about/
+  - title: "研究紹介"
+    url: /research/
