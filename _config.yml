@@ -136,7 +136,6 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -147,6 +146,14 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets
+
 keep_files:
   - .git
   - .svn
