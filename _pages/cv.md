@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of CV will be uploaded soon!
+A PDF version of my CV will be uploaded soon!
 
 Education
 ======
