@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja).
 
 ## Lead-Author Papers
+**(3)** [Discovery of Line Pressure Broadening and Direct Constraint on Gas Surface Density in a Protoplanetary Disk](https://arxiv.org/abs/2209.03367) <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
+2022, The Astrophysical Journal Letters, in press
+
 **(2)** [A New Method for Direct Measurament of Isotopologue Ratios in Protoplanetary Disks: A Case Study of the <sup>12</sup>CO/<sup>13</sup>CO Ratio in the TW Hya Disk](https://ui.adsabs.harvard.edu/abs/2022arXiv220408330Y/abstract) <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Seokho Lee <br>
 2022, The Astrophysical Journal, 906, 112
