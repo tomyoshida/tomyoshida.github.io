@@ -23,6 +23,16 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(12)** TW Hyaまわりの原始惑星系円盤内縁部のガス構造<br>
+**吉田 有宏**, 野村 英子, 塚越 崇, 古家 健次, 植田 高啓 <br>
+口頭, 日本惑星科学会2022年秋季講演会<br>
+2022年9月22日, 茨城県水戸市 ザ・ヒロサワ・シティ会館+オンライン
+
+**(11)**  Subaru/HDSを用いたスペクトロ・アストロメトリによる形成中の惑星探査 <br>
+**吉田 有宏**, 高見 道弘, 野村 英子 <br>
+口頭, 日本天文学会2022年秋季年会<br>
+2022年9月15日, 新潟大学五十嵐キャンパス+オンライン
+
 **(10)** 分子ガス同位体比の新しい測定手法を用いたTW Hyaまわりの原子惑星系円盤における不均一な<sup>12</sup>CO/<sup>13</sup>CO比の発見 <br>
 **吉田 有宏** <br>
 口頭, 2022年度第52回 天文・天体物理若手夏の学校,  <br>
