@@ -7,6 +7,16 @@ author_profile: true
 Only lead-author talks are shown.
 
 ## International conferences and workshops
+**(5)** Discovery of Line Pressure Broadening and Direct Constraint on Gas Surface Density in a Protoplanetary Disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
+Poster, Symposium on Next Generation Astrochemistry, <br>
+30 Nov 2022, The University of Tokyo + Online (Zoom)
+
+**(4)** Discovery of Line Pressure Broadening in Protoplanetary Disks and Constraint on Gas Surface Density of the TW Hya Disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
+Oral, Molecules in Extreme Environments, <br>
+24 Nov 2022, NAOJ Mitaka Campus + Online (Zoom)
+
 **(3)** A New Method for Direct Measurament of Isotopologue Ratios in Protoplanetary Disks: A Case Study of the <sup>12</sup>CO/<sup>13</sup>CO Ratio in the TW Hya Disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Seokho Lee <br>
 Oral, NCTS-ASIAA Workshop: Stars, Planets, and Formosa, <br>
