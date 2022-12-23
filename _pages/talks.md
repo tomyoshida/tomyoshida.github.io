@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author talks are shown.
 
 ## International conferences and workshops
+**(6)** Discovery of Line Pressure Broadening in a Protoplanetary Disk and Constraint on Gas Surface Density of the TW Hya disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
+Oral, A half century of millimeter and submillimeter astronomy: Impact on astronomy/astrophysics and the future,<br>
+17 Dec 2022, Miyakojima, Okinawa, Japan + Online (Zoom)
+
 **(5)** Discovery of Line Pressure Broadening and Direct Constraint on Gas Surface Density in a Protoplanetary Disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
 Poster, Symposium on Next Generation Astrochemistry, <br>
@@ -33,6 +38,11 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(13)** 輝線の圧力広がりを用いた原始惑星系円盤ガス分布の直接的制約<br>
+**吉田 有宏**, 野村 英子, 塚越 崇, 古家 健次, 植田 高啓 <br>
+口頭, 太陽系天体若手研究会2022<br>
+2022年11月18日, オンライン
+
 **(12)** TW Hyaまわりの原始惑星系円盤内縁部のガス構造<br>
 **吉田 有宏**, 野村 英子, 塚越 崇, 古家 健次, 植田 高啓 <br>
 口頭, 日本惑星科学会2022年秋季講演会<br>
