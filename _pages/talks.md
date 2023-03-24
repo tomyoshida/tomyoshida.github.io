@@ -43,6 +43,12 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(15)** 原始惑星系円盤における輝線の圧力広がりの発見とガス面密度の直接的制約 <br>
+**吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 植田 高啓<br>
+口頭, 日本天文学会2023年春季年会, <br>
+2023年3月14日, 東京都豊島区 立教大学池袋キャンパス + オンライン
+
+
 **(14)** 輝線の圧力広がりを用いた惑星系形成領域の面密度・温度分布の直接的制約 <br>
 **吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 土井 聖明 <br>
 口頭, 新学術領域「星・惑星形成」2022年度大研究会, <br>
