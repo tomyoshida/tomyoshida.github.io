@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author talks are shown.
 
 ## International conferences and workshops
+**(8)** Discovery of Line Pressure Broadening in a Protoplanetary Disk and Constraint on Gas Surface Density of the TW Hya disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
+Poster, Protostars & Planets VII,<br>
+10-15 Apr 2023, Kyoto, Japan
+
 **(7)** Discovery of Line Pressure Broadening in a Protoplanetary Disk and Constraint on Gas Surface Density of the TW Hya disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
 Oral, East-Asian ALMA Science Workshop 2023,<br>
