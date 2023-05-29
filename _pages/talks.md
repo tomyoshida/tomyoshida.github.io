@@ -49,6 +49,16 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 
 ## Domestic conferences and workshops
 
+**(18)** 原始惑星系円盤におけるダストアルベドの観測的制約 <br>
+**吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 土井 聖明<br>
+口頭, 日本地球惑星科学連合(JpGU)2023年大会, セッション:宇宙における物質の形成と進化 (P-CG20) <br>
+2023年5月25日, 幕張メッセ+オンライン
+
+**(17)** Constraints on carbon isotope ratios in a planetary nursery: to understand the behavior of carbon <br>
+**Tomohiro Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Seokho Lee, Richard Teague, Karin Öberg<br>
+口頭, 日本地球惑星科学連合(JpGU)2023年大会, セッション:アストロバイオロジー (M-IS03) <br>
+2023年5月21日, 幕張メッセ+オンライン
+
 **(16)** 原始惑星系円盤における輝線の圧力広がりの発見とガス面密度の直接的制約 <br>
 **吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 植田 高啓<br>
 口頭, 2022年度宇宙電波懇談会シンポジウム「2030年代の電波天文学」, <br>
