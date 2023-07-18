@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author talks are shown.
 
 ## International conferences and workshops
+**(9)** Discovery of Line Pressure Broadening and Direct Constraint on Gas Surface Density in a Protoplanetary Disk  <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
+Oral, 2023 Kavli-IAU Astrochemistry Symposium. Astrochemistry VIII - From the First Galaxies to the Formation of Habitable Worlds,<br>
+13 Jul 2023, Park Place Hotel, Traverse City, MI, USA
+
 **(8)** Discovery of Line Pressure Broadening in a Protoplanetary Disk and Constraint on Gas Surface Density of the TW Hya disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
 Poster, Protostars & Planets VII,<br>
