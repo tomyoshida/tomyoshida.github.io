@@ -58,6 +58,11 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(21)** 原始惑星系円盤のダストアルベドの観測的制限とダスト組成への示唆<br>
+**吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 土井 聖明, 片岡 章雅<br>
+口頭, 日本惑星科学会2023年秋季講演会 <br>
+2023年10月11日, 広島市文化交流会館
+
 **(20)** 原始惑星系円盤ダストは白か黒か? CO 輝線ウィングによるアルベドの測定<br>
 **吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 土井 聖明<br>
 口頭, 日本天文学会2023年秋季年会 <br>
