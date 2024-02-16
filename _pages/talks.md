@@ -4,9 +4,14 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-Only lead-author talks are shown.
+Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(11)** Complex Carbon Isotope Fractionation in a Protoplanetary Disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Richard Teague, Charles J. Law, Seokho Lee, Karin I. Öberg, Christian Rab, and Ryan A. Loomis <br>
+Poster, Workshop on Interstellar Matter 2021 <br>
+8-10 Nov 2023, Institute of Low Temperature Science, Hokkaido University, Japan
+
 **(10)** Discovery of Line Pressure Broadening and Direct Constraint on Gas Surface Density in a Protoplanetary Disk  <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda <br>
 Oral, Asia-Pacific Regional IAU Meeting,<br>
@@ -58,6 +63,11 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(22)** 原始惑星系円盤におけるダストアルベドの観測的制約とダストの物理的性質への示唆<br>
+**吉田 有宏**, 野村 英子, 塚越 崇, 古家 健次, 土井 聖明, 片岡 章雅<br>
+口頭, 星・惑星形成：これまでの20年間とこれから <br>
+2023年11月21日, みんなの貸会議室 那覇泉崎店
+
 **(21)** 原始惑星系円盤のダストアルベドの観測的制限とダスト組成への示唆<br>
 **吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 土井 聖明, 片岡 章雅<br>
 口頭, 日本惑星科学会2023年秋季講演会 <br>
