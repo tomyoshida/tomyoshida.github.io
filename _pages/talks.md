@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(12)** Tracing gas in protoplanetary disks with pressure-broadened CO line wings <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi <br>
+Oral (invited), Celebrating 30 years of protoplanetary disk chemistry: past, present,and future <br>
+21 Feb 2024, Tagungsstätte Schloss Ringberg, Germany
+
 **(11)** Complex Carbon Isotope Fractionation in a Protoplanetary Disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Richard Teague, Charles J. Law, Seokho Lee, Karin I. Öberg, Christian Rab, and Ryan A. Loomis <br>
 Poster, Workshop on Interstellar Matter 2021 <br>
