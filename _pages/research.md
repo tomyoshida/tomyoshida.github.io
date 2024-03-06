@@ -20,7 +20,7 @@ redirect_from:
 **論文:** [Yoshida et al., 2022, ApJL, 937, L14](https://iopscience.iop.org/article/10.3847/2041-8213/ac903a) <br>
 **本論文はAASの研究ハイライトに選ばれました:** [AAS Nova - Under Pressure: A New Technique for Measuring Gas Surface Density](https://aasnova.org/2022/11/04/under-pressure-a-new-technique-for-measuring-gas-surface-density/)
 
-## 原始惑星系円盤における分子ガス同位体比の新しい測定手法
+## 原始惑星系円盤における分子ガス同位体比の制約
 
 原始惑星系円盤から惑星系へと至る物質の進化・輸送過程を理解するために、同位体比は重要なツールです。
 しかし、原始惑星系円盤の分子ガス同位体比を測定することは、これまで困難でした。
@@ -32,6 +32,8 @@ TW Hya周りの原始惑星系円盤で12CO/13CO比を測定することに成�
 より詳しい解説は[アルマニュース(2022/8/12)](https://alma-telescope.jp/news/twhydrae-202208)をご覧ください。<br>
 **論文:** [Yoshida et al., 2022, ApJ, 932, 126](https://ui.adsabs.harvard.edu/abs/%202022ApJ...932..126Y/abstract)
 
+また、我々はALMA望遠鏡によるTW Hya円盤のアーカイブデータ中に13CN輝線が検出されていることを発見しました。12CN輝線の観測結果と合わせて非局所熱力学平衡モデリングを行うことで、12CN/13CNを制約することに成功しました。その値は70程度と星間物質における12C/13C比に近い一方で、COやHCNの炭素同位体比とは異なる値を示していました。この結果は、原始惑星系円盤中で複雑な炭素同位体分別が進行していることを示唆します。<br>
+**論文:** [Yoshida et al., 2024, ApJ, in press](https://ui.adsabs.harvard.edu/abs/2024arXiv240300626Y/abstract)
 
 ## 原始星ジェットの時間変化
 
