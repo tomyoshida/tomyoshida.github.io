@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja) or [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8002-8473&sort=date+desc).
 
 ## Lead-Author Papers
-**(4)** [The First Spatially-resolved Detection of 13CN in a Protoplanetary Disk and Evidence for Complex Carbon Isotope Fractionation](https://arxiv.org/abs/2403.00626) <br>
+**(4)** [The First Spatially-resolved Detection of <sup>13</sup>CN in a Protoplanetary Disk and Evidence for Complex Carbon Isotope Fractionation](https://arxiv.org/abs/2403.00626) <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Richard Teague, Charles J. Law, Takashi Tsukagoshi, Seokho Lee, Christian Rab, Karin I. Öberg, Ryan A. Loomis <br>
 2024, The Astrophysical Journal, in press, arXiv:2403.00626
 
