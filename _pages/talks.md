@@ -68,6 +68,11 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(23)** TW Hya円盤における<sup>12</sup>CN/<sup>13</sup>CN比の測定─円盤ガス炭素同位体比の複雑性<br>
+**吉田 有宏**, 野村 英子, 古家 健次, Richard Teague, Charles J. Law, 塚越 崇, Seokho Lee, Christian Rab, Karin &Ouml;berg, Ryan Loomis
+口頭, 日本天文学会2024年春季年会 <br>
+2024年3月15日, オンライン
+
 **(22)** 原始惑星系円盤におけるダストアルベドの観測的制約とダストの物理的性質への示唆<br>
 **吉田 有宏**, 野村 英子, 塚越 崇, 古家 健次, 土井 聖明, 片岡 章雅<br>
 口頭, 星・惑星形成：これまでの20年間とこれから <br>
