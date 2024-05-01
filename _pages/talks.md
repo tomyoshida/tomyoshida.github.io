@@ -69,7 +69,7 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 
 ## Domestic conferences and workshops
 **(23)** TW Hya円盤における<sup>12</sup>CN/<sup>13</sup>CN比の測定─円盤ガス炭素同位体比の複雑性<br>
-**吉田 有宏**, 野村 英子, 古家 健次, Richard Teague, Charles J. Law, 塚越 崇, Seokho Lee, Christian Rab, Karin &Ouml;berg, Ryan Loomis
+**吉田 有宏**, 野村 英子, 古家 健次, Richard Teague, Charles J. Law, 塚越 崇, Seokho Lee, Christian Rab, Karin &Ouml;berg, Ryan Loomis<br>
 口頭, 日本天文学会2024年春季年会 <br>
 2024年3月15日, オンライン
 
