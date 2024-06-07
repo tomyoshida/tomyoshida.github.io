@@ -33,7 +33,7 @@ TW Hya周りの原始惑星系円盤で12CO/13CO比を測定することに成�
 **論文:** [Yoshida et al., 2022, ApJ, 932, 126](https://ui.adsabs.harvard.edu/abs/%202022ApJ...932..126Y/abstract)
 
 また、我々はALMA望遠鏡によるTW Hya円盤のアーカイブデータ中に13CN輝線が検出されていることを発見しました。12CN輝線の観測結果と合わせて非局所熱力学平衡モデリングを行うことで、12CN/13CNを制約することに成功しました。その値は70程度と星間物質における12C/13C比に近い一方で、COやHCNの炭素同位体比とは異なる値を示していました。この結果は、原始惑星系円盤中で複雑な炭素同位体分別が進行していることを示唆します。<br>
-**論文:** [Yoshida et al., 2024, ApJ, in press](https://ui.adsabs.harvard.edu/abs/2024arXiv240300626Y/abstract)
+**論文:** [Yoshida et al., 2024, ApJ, 966, 63](https://ui.adsabs.harvard.edu/abs/2024arXiv240300626Y/abstract)
 
 ## 原始星ジェットの時間変化
 
