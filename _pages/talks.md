@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(13)** Tentative detection of an outflow driven by an embedded protoplanet <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Charles J. Law, Richard Teague, Kenji Furuya, Takashi Tsukagoshi <br>
+Oral, Mini Workshop on Star Formation <br>
+11 Jun 2024, Kagoshima University, Japan
+
 **(12)** Tracing gas in protoplanetary disks with pressure-broadened CO line wings <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi <br>
 Oral (invited), Celebrating 30 years of protoplanetary disk chemistry: past, present,and future <br>
