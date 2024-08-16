@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(14)** Complex carbon isotope fractionation in a protoplanetary disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Richard Teague, Charles J. Law, Seokho Lee, Karin I. Öberg, Christian Rab, and Ryan A. Loomis <br>
+Oral (invited), COSPAR 2024<br>
+14 Jul 2024, BEXCO, Busan, Koria
+
 **(13)** Tentative detection of an outflow driven by an embedded protoplanet <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Charles J. Law, Richard Teague, Kenji Furuya, Takashi Tsukagoshi <br>
 Oral, Mini Workshop on Star Formation <br>
