@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+## 原始惑星が駆動するアウトフロー
+惑星は原始惑星系円盤中で形成されますが、その詳しいメカニズムについては謎が多く残されています。この論文では、うみへび座TW星周りの円盤中に埋没した形成初期段階の原始惑星から噴出していると考えられるアウトフローを一酸化硫黄分子を用いて発見しました。このアウトフローの速度からは、惑星質量が約4地球質量であることがわかりました。さらに、アウトフローの質量放出率からは、原始惑星への質量降着率が1年間に約0.0003地球質量と見積もられました。これらの推定結果は、理論研究の予言に一致します。アウトフローを用いることで、惑星がどのように成長していくのかがわかるようになるかもしれません。
+**論文:** [Yoshida et al., 2024, ApJL, 971, L15](https://iopscience.iop.org/article/10.3847/2041-8213/ad654c/meta) <br>
+**本論文はAASのハイライト論文に選ばれました:** [AAS Nova - A Baby Planet Reveals Its Hiding Place](https://aasnova.org/2024/08/14/a-baby-planet-reveals-its-hiding-place/)
+
 
 ## 原始惑星系円盤における輝線の圧力広がりの発見と水素ガス分布の直接的制約
 原始惑星系円盤の質量の大部分を担う水素ガスの分布を観測的に調べることは、惑星系の形成過程やガス惑星の組成を明らかにする上で不可欠です。
@@ -18,7 +23,7 @@ redirect_from:
 今後はこの手法を他の円盤にも適用していきたいと考えています。
 より詳しい解説は[国立天文台プレスリリース - 年を経た惑星工場にも十分な材料](https://www.nao.ac.jp/news/science/2023/20230111-dos.html)をご覧ください。<br>
 **論文:** [Yoshida et al., 2022, ApJL, 937, L14](https://iopscience.iop.org/article/10.3847/2041-8213/ac903a) <br>
-**本論文はAASの研究ハイライトに選ばれました:** [AAS Nova - Under Pressure: A New Technique for Measuring Gas Surface Density](https://aasnova.org/2022/11/04/under-pressure-a-new-technique-for-measuring-gas-surface-density/)
+**本論文はAASのハイライト論文に選ばれました:** [AAS Nova - Under Pressure: A New Technique for Measuring Gas Surface Density](https://aasnova.org/2022/11/04/under-pressure-a-new-technique-for-measuring-gas-surface-density/)
 
 ## 原始惑星系円盤における分子ガス同位体比の制約
 
