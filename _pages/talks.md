@@ -78,6 +78,11 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(25)** Measuring the gas surface density profile in main planet-forming regions with ngVLA<br>
+**Tomohiro Yoshida**, Hideko Nomura, Kenji Furuya, Yoshihide Yamato, Takashi Tsukagoshi<br>
+Oral, Astromaterial Science in the ngVLA Era<br>
+2024年8月27日, 東京工業大学+オンライン
+
 **(24)** TW Hya円盤における<sup>12</sup>CN/<sup>13</sup>CN比の初測定─円盤ガス炭素同位体比の複雑性<br>
 **吉田 有宏**, 野村 英子, 古家 健次, Richard Teague, Charles J. Law, 塚越 崇, Seokho Lee, Christian Rab, Karin &Ouml;berg, Ryan Loomis<br>
 口頭, 日本地球惑星科学連合(JpGU)2024年大会<br>
