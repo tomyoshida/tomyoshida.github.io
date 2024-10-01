@@ -78,6 +78,16 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(27)** TW Hya円盤における空間的に局在したSO放射の発見: 原始惑星アウトフロー仮説<br>
+**吉田 有宏**, 野村 英子, Charles Law, Richard Teague, 芝池 諭人, 古家 健次, 塚越 崇<br>
+ポスター, 日本惑星科学会2024年秋季講演会<br>
+2024年9月24-26日, 九州大学
+
+**(26)** 一酸化炭素分子輝線の圧力広がりを用いた原始惑星系円盤ガス面密度分布の精密測定<br>
+**吉田 有宏**, 野村 英子, Enrique Macías, Stefano Facchini, 古家 健次, 塚越 崇, Elena Viscardi, exoALMA collaboration<br>
+口頭, 日本惑星科学会2024年秋季講演会<br>
+2024年9月24日, 九州大学
+
 **(25)** Measuring the gas surface density profile in main planet-forming regions with ngVLA<br>
 **Tomohiro Yoshida**, Hideko Nomura, Kenji Furuya, Yoshihide Yamato, Takashi Tsukagoshi<br>
 Oral, Astromaterial Science in the ngVLA Era<br>
