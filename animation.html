@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+  <html lang="ja">
+    <head>
+      <meta charset="utf8" />
+      <style>
+        body {
+          background: #444;
+        }
+        .preview-image {
+          background-color: white;
+          /* プレビュー背景のチェック模様をCSSで表示する */
+          background-image: 
+              linear-gradient(45deg, #d3d3d3 25%, transparent 25%, transparent 75%, #d3d3d3 75%),
+              linear-gradient(45deg, #d3d3d3 25%, transparent 25%, transparent 75%, #d3d3d3 75%);
+          background-position: 0 0, 8px 8px;
+          background-size: 16px 16px;
+        }
+      </style>
+    </head>
+    <body>
+      <!-- Firefox, Safari, Chromeで再生可能 (IEではアニメは再生できません) -->
+      <picture>
+        <!-- WebP対応ブラウザ用 -->
+        <source type="image/webp" srcset="animation.webp" />
+        <!-- WebP非対応ブラウザ用 -->
+        <img
+          src="animation.png"
+          width="564"
+          height="572"
+          alt=""
+          class="preview-image"
+        />
+      </picture>
+    </body>
+  </html>
