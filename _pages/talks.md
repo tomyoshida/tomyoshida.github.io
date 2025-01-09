@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(15)** Bimodal Carbon Isotope Fractionation in a Protoplanetary Disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Richard Teague, Charles J. Law, Seokho Lee, Karin I. Öberg, Christian Rab, and Ryan A. Loomis <br>
+Oral, Fractionation of isotopes in space II: from the Solar System to galaxies <br>
+6 Nov 2024, Florence, Italy
+
 **(14)** Complex carbon isotope fractionation in a protoplanetary disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Richard Teague, Charles J. Law, Seokho Lee, Karin I. Öberg, Christian Rab, and Ryan A. Loomis <br>
 Oral (invited), COSPAR 2024<br>

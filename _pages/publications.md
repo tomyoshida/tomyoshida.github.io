@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja) or [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8002-8473&sort=date+desc).
 
 ## Lead-Author Papers
+**(6)** [Dust Scattering Albedo at Millimeter Wavelengths in the TW Hya Disk](https://arxiv.org/abs/2412.10731) <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kiyoaki Doi, Kenji Furuya, Akimasa Kataoka <br>
+2025, The Astrophysical Journal, in press (arXiv:2412.10731)
+
 **(5)** [Outflow Driven by a Protoplanet Embedded in the TW Hya Disk](https://iopscience.iop.org/article/10.3847/2041-8213/ad654c/meta) <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Charles J. Law, Richard Teague, Yuhito Shibaike, Kenji Furuya, Takashi Tsukagoshi <br>
 2024, The Astrophysical Journal Letters, 971, L15 
@@ -29,6 +33,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 2021, The Astrophysical Journal, 906, 112
 
 ## Co-Author Papers 
+**(2)** [Asymmetric dust accumulation of the PDS 70 disk revealed by ALMA Band 3 observations](https://iopscience.iop.org/article/10.3847/2041-8213/ad7f51/meta) <br>
+Kiyoaki Doi, Akimasa Kataoka, Hauyu Baobab Liu, **Tomohiro C. Yoshida**, Myriam Benisty, Ruobing Dong, Yoshihide Yamato, Jun Hashimoto<br>
+2024, The Astrophysical Journal Letters, 974, L25
+
 **(1)** [Detection of HC<sup>18</sup>O<sup>+</sup> in a Protoplanetary Disk: Exploring Oxygen Isotope Fractionation of CO](https://ui.adsabs.harvard.edu/abs/2022ApJ...926..148F/abstract) <br>
 Kenji Furuya, Takashi Tsukagoshi, Chunhua Qi, Hideko Nomura, L. Ilsedore Cleeves, Seokho Lee, **Tomohiro C. Yoshida** <br>
 2022, The Astrophysical Journal, 026, 148
