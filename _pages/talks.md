@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(16)** Outflow Driven by a Protoplanet Embedded in the TW Hya Disk <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Charles Law, Richard Teague, Yuhito Shibaike, Kenji Furuya, Takashi Tsukagoshi <br>
+Oral, Circumplanetary Disks and Satellite Formation III <br>
+27 Jan 2025, Kyoto University, Japan
+
 **(15)** Bimodal Carbon Isotope Fractionation in a Protoplanetary Disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Richard Teague, Charles J. Law, Seokho Lee, Karin I. Öberg, Christian Rab, and Ryan A. Loomis <br>
 Oral, Fractionation of isotopes in space II: from the Solar System to galaxies <br>
@@ -83,15 +88,25 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
-**(27)** TW Hya円盤における空間的に局在したSO放射の発見: 原始惑星アウトフロー仮説<br>
+**(29)** TW Hya円盤における局在した一酸化硫黄放射の発見と原始惑星アウトフローによる解釈<br>
+**吉田 有宏**, 野村 英子, Charles Law, Richard Teague, 芝池 諭人, 古家 健次, 塚越 崇<br>
+口頭, 日本天文学会2025年春季年会<br>
+2025年3月20日, 水戸市民会館
+
+**(28)** TW Hya円盤における空間的に局在したSO放射の発見: 原始惑星アウトフロー仮説<br>
 **吉田 有宏**, 野村 英子, Charles Law, Richard Teague, 芝池 諭人, 古家 健次, 塚越 崇<br>
 ポスター, 日本惑星科学会2024年秋季講演会<br>
 2024年9月24-26日, 九州大学
 
-**(26)** 一酸化炭素分子輝線の圧力広がりを用いた原始惑星系円盤ガス面密度分布の精密測定<br>
+**(27)** 一酸化炭素分子輝線の圧力広がりを用いた原始惑星系円盤ガス面密度分布の精密測定<br>
 **吉田 有宏**, 野村 英子, Enrique Macías, Stefano Facchini, 古家 健次, 塚越 崇, Elena Viscardi, exoALMA collaboration<br>
 口頭, 日本惑星科学会2024年秋季講演会<br>
 2024年9月24日, 九州大学
+
+**(26)** CO分子輝線の圧力広がりウィングを用いた円盤ガス面密度分布の制約: HD 169142円盤<br>
+**吉田 有宏**, 野村 英子, Enrique Macías, Stefano Facchini, 古家 健次, 塚越 崇, Elena Viscardi <br>
+口頭, 日本天文学会2024年秋季年会 <br>
+2024年9月11日, 関西学院大学
 
 **(25)** Measuring the gas surface density profile in main planet-forming regions with ngVLA<br>
 **Tomohiro Yoshida**, Hideko Nomura, Kenji Furuya, Yoshihide Yamato, Takashi Tsukagoshi<br>

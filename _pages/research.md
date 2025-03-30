@@ -25,6 +25,12 @@ redirect_from:
 **論文:** [Yoshida et al., 2022, ApJL, 937, L14](https://iopscience.iop.org/article/10.3847/2041-8213/ac903a) <br>
 **本論文はAASのハイライト論文に選ばれました:** [AAS Nova - Under Pressure: A New Technique for Measuring Gas Surface Density](https://aasnova.org/2022/11/04/under-pressure-a-new-technique-for-measuring-gas-surface-density/)
 
+また、圧力広がりによってできる輝線の「すそ」の部分は円盤の中心面領域を直接トレースしています。
+これをうまく利用すると、これまで難しかった円盤中心面温度の直接推定を行うことができます。さらに、温度が推定されれば、そこからダストの性質にも迫ることができます。
+我々はTW Hya円盤の中心面温度を推定し、それをダストからの放射と比較することで、ダストのサイズや組成などに制限をかけました。<br>
+**論文:** [Yoshida et al., 2025, ApJ, 980, 50](https://iopscience.iop.org/article/10.3847/1538-4357/ad9f31/meta) <br>
+
+
 ## 原始惑星系円盤における分子ガス同位体比の制約
 
 原始惑星系円盤から惑星系へと至る物質の進化・輸送過程を理解するために、同位体比は重要なツールです。
