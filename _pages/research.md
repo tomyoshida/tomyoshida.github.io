@@ -20,10 +20,13 @@ redirect_from:
 我々はALMA望遠鏡のアーカイブデータを用いて、TW Hya周りの原始惑星系円盤中心部の一酸化炭素輝線が「圧力広がり」という、比較的高い圧力下で見られる特徴的な形状を持つことを発見しました。
 「圧力広がり」が原始惑星系円盤で検出されたのは初めてのことです。これを用いることで、円盤の内側部分でのガス密度分布を直接的に制約することに成功しました。
 その結果、TW Hya円盤の中心星から5 auより内側の領域に8木星質量程度のガスが存在することなどがわかりました。
-今後はこの手法を他の円盤にも適用していきたいと考えています。
 より詳しい解説は[国立天文台プレスリリース - 年を経た惑星工場にも十分な材料](https://www.nao.ac.jp/news/science/2023/20230111-dos.html)をご覧ください。<br>
 **論文:** [Yoshida et al., 2022, ApJL, 937, L14](https://iopscience.iop.org/article/10.3847/2041-8213/ac903a) <br>
 **本論文はAASのハイライト論文に選ばれました:** [AAS Nova - Under Pressure: A New Technique for Measuring Gas Surface Density](https://aasnova.org/2022/11/04/under-pressure-a-new-technique-for-measuring-gas-surface-density/)
+
+さらに、この手法を別の天体にも応用しはじめています。ALMA大型プログラムexoALMAのデータを用いて、若い星RX J.1604.3-2130 A周りの円盤でガスの分布を測定することに成功しました。この円盤では、ガスの圧力が極大になるところでダストが集積している様子などが明らかになりました。<br>
+**論文:** [Yoshida et al., 2025, ApJL, 984, L19](https://iopscience.iop.org/article/10.3847/2041-8213/adc42f)<br>
+**exoALMAプロジェクトについての詳細はこちら:** [exoALMAが拓く、惑星形成の新たな視界 : 惑星探しを超えて、 形成円盤の物理機構に迫る](https://alma-telescope.jp/news/press/exoalma-202504.html)
 
 また、圧力広がりによってできる輝線の「すそ」の部分は円盤の中心面領域を直接トレースしています。
 これをうまく利用すると、これまで難しかった円盤中心面温度の直接推定を行うことができます。さらに、温度が推定されれば、そこからダストの性質にも迫ることができます。
