@@ -7,6 +7,16 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(18)** Revealing Gas Surface Density Profiles in Protoplanetary Disks via Pressure-Broadened CO Line Wings <br>
+**Tomohiro C. Yoshida** et al. <br>
+Oral (invited), East-Asian ALMA Science Workshop 2025 <br>
+24 Sep 2025, Kagoshima University, Japan
+
+**(17)** Revealing Gas Surface Density Profiles in Protoplanetary Disks via Pressure-Broadened CO Line Wings <br>
+**Tomohiro C. Yoshida** et al. <br>
+Oral, Exoplanets & Planet Formation Workshop 2025 <br>
+26 Aug 2025, Kumming, Yunnan, China
+
 **(16)** Outflow Driven by a Protoplanet Embedded in the TW Hya Disk <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Charles Law, Richard Teague, Yuhito Shibaike, Kenji Furuya, Takashi Tsukagoshi <br>
 Oral, Circumplanetary Disks and Satellite Formation III <br>
@@ -88,6 +98,16 @@ Poster, Workshop on Interstellar Matter 2021 <br>
 17-19 Nov 2021, Institute of Low Temperature Science, Hokkaido University, Japan
 
 ## Domestic conferences and workshops
+**(31)** ALMAを用いたマルチエポック観測による重力不安定円盤における渦状腕の巻きつき運動の検出<br>
+**吉田 有宏**, 野村 英子, 土井 聖明, Marcelo Barraza-Alfaro, Richard Teague, 古家 健次, 大和 義英, 塚越 崇<br>
+口頭, 日本天文学会2025年秋季年会<br>
+2025年9月11日, 海峡メッセ下関
+
+**(30)** アルマ望遠鏡による時間領域天文学が明らかにした惑星系形成領域の重力不安定性 <br>
+**吉田 有宏**, 野村 英子, 土井 聖明, Marcelo Barraza-Alfaro, Richard Teague, 古家 健次, 大和 義英, 塚越 崇<br>
+口頭, 日本惑星科学会2025年秋季講演会<br>
+2025年9月5日, 東京大学駒場キャンパス
+
 **(29)** TW Hya円盤における局在した一酸化硫黄放射の発見と原始惑星アウトフローによる解釈<br>
 **吉田 有宏**, 野村 英子, Charles Law, Richard Teague, 芝池 諭人, 古家 健次, 塚越 崇<br>
 口頭, 日本天文学会2025年春季年会<br>
@@ -126,7 +146,7 @@ Oral, Astromaterial Science in the ngVLA Era<br>
 **(22)** 原始惑星系円盤におけるダストアルベドの観測的制約とダストの物理的性質への示唆<br>
 **吉田 有宏**, 野村 英子, 塚越 崇, 古家 健次, 土井 聖明, 片岡 章雅<br>
 口頭, 星・惑星形成：これまでの20年間とこれから <br>
-2023年11月21日, みんなの貸会議室 那覇泉崎店
+2023年11月21日, 那覇
 
 **(21)** 原始惑星系円盤のダストアルベドの観測的制限とダスト組成への示唆<br>
 **吉田 有宏**, 野村 英子,  塚越 崇, 古家 健次, 土井 聖明, 片岡 章雅<br>

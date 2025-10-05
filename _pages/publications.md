@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja) or [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8002-8473&sort=date+desc).
 
 ## Lead-Author Papers
+**(8)** [Winding motion of spirals in a gravitationally unstable protoplanetary disk](https://ui.adsabs.harvard.edu/abs/2025NatAs.tmp..193Y/abstract) <br>
+**Tomohiro C. Yoshida**, Hideko Nomura, Kiyoaki Doi, Marcelo Barraza-Alfaro, Richard Teague, Kenji Furuya, Yoshihide Yamato, Takashi Tsukagoshi <br>
+2025, Nature Astronomy, https://doi.org/10.1038/s41550-025-02639-y
+
 **(7)** [exoALMA. XIV. Gas Surface Densities in the RX J1604.3‑2130 A Disk from Pressure-broadened CO Line Wings](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..19Y/abstract) <br>
 **Tomohiro C. Yoshida**, exoALMA collaboration <br>
 2025, The Astrophysical Journal Letters, 984, L19
@@ -40,11 +44,11 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **(22)** [exoALMA. XVIII. Interpreting large scale kinematic structures as moderate warping](https://ui.adsabs.harvard.edu/abs/2025arXiv250711669W/abstract) <br>
 Andrew J. Winter, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
-2025, The Astrophysical Journal Letters, in press
+2025, The Astrophysical Journal Letters, 990, L10
 
 **(21)** [SO emission in the dynamically perturbed protoplanetary disks around CQ Tau and MWC 758](https://ui.adsabs.harvard.edu/abs/2025arXiv250616481Z/abstract) <br>
 Francesco Zagaria, Haochang Jiang, Gianni Cataldi, Stefano Facchini, Myriam Benisty, Yuri Aikawa, Sean Andrews, Jaehan Bae, Marcelo Barraza-Alfaro, Pietro Curone, Ian Czekala, Daniele Fasano, Cassandra Hall, Iain Hammond, Jane Huang, John D. Ilee, Andrés F. Izquierdo, Jensen Lawrence, Giuseppe Lodato, François Ménard, Christophe Pinte, Giovanni P. Rosotti, Jochen Stadler, Richard Teague, Leonardo Testi, David Wilner, Andrew Winter, and Tomohiro Yoshida <br>
-2025, The Astrophysical Journal, in press
+2025, The Astrophysical Journal, 989, 30
 
 
 **(20)** [Inner disc and circumplanetary material in the PDS 70 system: Insights from multi-epoch, multi-frequency ALMA observations](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.373F/abstract) <br>

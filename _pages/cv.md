@@ -13,10 +13,12 @@ A PDF version of my CV will be uploaded soon!
 
 Education
 ======
+* Ph.D., The Graduate University for Advanced Studies (SOKENDAI/NAOJ), 2025
 * B.S. in Science, Kyoto University, 2020
 
 Award
 ======
-* 2022.8.23-26: Oral Award in Summer School of Young Japanese Astronomers 2022
-* 2023.5.25: Outstanding student presentation award in Japan Geoscience Union Meeting 2023
-* 2024.9.24: Best Presentation Award in the Japanese Society for Planetary Science Fall Meeting 2024
+* Aug, 2022: Oral Award in Summer School of Young Japanese Astronomers 2022
+* Mar 25, 2023: Outstanding student presentation award in Japan Geoscience Union Meeting 2023
+* Sep 24, 2024: Best Presentation Award in the Japanese Society for Planetary Science Fall Meeting 2024
+* Sep 26, 2025: SOKENDAI Award (President's award)
