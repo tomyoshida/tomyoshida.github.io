@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(19)** Probing Gas Surface Density and Composition in Primary Planet-Forming Regions with ALMA: From Recent Results to the Broadband Era <br>
+**Tomohiro C. Yoshida** et al. <br>
+Oral (invited), Astrochemistry in the Broadband Era: ngVLA & ALMA WSU 2025<br>
+23 Oct 2025, Portland Regancy Hotel & Spa, Portland, ME, USA
+
 **(18)** Revealing Gas Surface Density Profiles in Protoplanetary Disks via Pressure-Broadened CO Line Wings <br>
 **Tomohiro C. Yoshida** et al. <br>
 Oral (invited), East-Asian ALMA Science Workshop 2025 <br>
