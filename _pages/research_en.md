@@ -41,6 +41,8 @@ This provides the first observational evidence that a planet-forming region is g
 For a more detailed explanation, please refer to the [ALMA press release – Winding Motion of Planet-Forming Spirals Captured on Video for the First Time](https://alma-telescope.jp/en/news/press/vimage-202509.html).<br>
 **Paper:** [Yoshida et al., 2025, Nature Astronomy](https://www.nature.com/articles/s41550-025-02639-y) <br>
 
+![Imlup](images/imlup.gif)
+
 ## Constraints on Molecular Gas Isotopic Ratios in Protoplanetary Disks
 
 Isotopic ratios are an important tool for understanding the evolution and transport of material from protoplanetary disks to planetary systems.

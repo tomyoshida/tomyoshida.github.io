@@ -38,6 +38,7 @@ redirect_from:
 より詳しい解説は[国立天文台アルマプロジェクトプレスリリース - 惑星を作る渦巻きの動画撮影に成功](https://alma-telescope.jp/news/press/vimage-202509.html)をご覧ください。<br>
 **論文:** [Yoshida et al., 2025, Nature Astronomy](https://www.nature.com/articles/s41550-025-02639-y) <br>
 
+![Imlup](images/imlup.gif)
 
 ## 原始惑星系円盤における分子ガス同位体比の制約
 
