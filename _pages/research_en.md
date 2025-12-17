@@ -41,7 +41,7 @@ This provides the first observational evidence that a planet-forming region is g
 For a more detailed explanation, please refer to the [ALMA press release – Winding Motion of Planet-Forming Spirals Captured on Video for the First Time](https://alma-telescope.jp/en/news/press/vimage-202509.html).<br>
 **Paper:** [Yoshida et al., 2025, Nature Astronomy](https://www.nature.com/articles/s41550-025-02639-y) <br>
 
-![Imlup]({{ "/images/imlup.gif" | relative_url }})
+<img src="{{ '/images/imlup.gif' | relative_url }}" alt="Imlup" style="display:block; margin: 0 auto; width:60%;">
 
 ## Constraints on Molecular Gas Isotopic Ratios in Protoplanetary Disks
 
