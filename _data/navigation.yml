@@ -1,6 +1,9 @@
 # main links links
 main:
-  - title: "研究紹介"
+  - title: "Research"
+    url: /research_en/
+
+  - title: "Research（日本語）"
     url: /research/
 
   - title: "Publications"
