@@ -28,11 +28,15 @@ By making effective use of this property, it becomes possible to directly estima
 We estimated the midplane temperature of the TW Hya disk and, by comparing it with dust emission, placed constraints on dust sizes and compositions.<br>
 **Paper:** [Yoshida et al., 2025, ApJ, 980, 50](https://iopscience.iop.org/article/10.3847/1538-4357/ad9f31/meta) <br>
 
-## Outflows Driven by Protoplanets
+## Searching for Forming Exoplanets
 
-Planets form within protoplanetary disks, but many aspects of the detailed mechanisms remain unclear. In this paper, we discovered an outflow that is thought to be launched from an embedded, very young protoplanet in the disk around TW Hydrae in the constellation Hydra, using sulfur monoxide molecules. From the velocity of this outflow, we inferred a planetary mass of approximately four Earth masses. Furthermore, from the mass loss rate of the outflow, the mass accretion rate onto the protoplanet was estimated to be about 0.0003 Earth masses per year. These estimates are consistent with predictions from theoretical studies. By using outflows as a probe, it may become possible to understand how planets grow over time.<br>
-**Paper:** [Yoshida et al., 2024, ApJL, 971, L15](https://iopscience.iop.org/article/10.3847/2041-8213/ad654c/meta) <br>
-**This paper was selected as an AAS Highlight:** [AAS Nova – A Baby Planet Reveals Its Hiding Place](https://aasnova.org/2024/08/14/a-baby-planet-reveals-its-hiding-place/)
+By observing planets in the process of formation within protoplanetary disks, we can investigate the details of the planet formation process. 
+We have achieved the first detection of silicon sulfide ($\text{SiS}$) isotopologue emission in the disk around MP Muscae. This can be interpreted as originating from the envelope surrounding a planet with a mass much smaller than that of Jupiter.
+**Paper:** [Yoshida et al., 2026, ApJL, in press](https://ui.adsabs.harvard.edu/abs/2026arXiv260212522Y/abstract)
+
+Furthermore, in the following paper, we used sulfur monoxide ($\text{SO}$) molecules to discover an outflow thought to be emanating from an early-stage protoplanet embedded in the disk around TW Hydrae. From the velocity of this outflow, the planetary mass was found to be approximately $4 \, M_{\oplus}$. Additionally, the mass loss rate of the outflow allowed us to estimate the mass accretion rate onto the protoplanet at approximately $3 \times 10^{-4} \, M_{\oplus} \, \text{yr}^{-1}$. These results are consistent with predictions from theoretical studies. Utilizing such outflows may enable us to understand how planets grow.
+**Paper:** [Yoshida et al., 2024, ApJL, 971, L15](https://iopscience.iop.org/article/10.3847/2041-8213/ad654c/meta)
+**This paper was selected as an AAS Highlight:** [AAS Nova - A Baby Planet Reveals Its Hiding Place](https://aasnova.org/2024/08/14/a-baby-planet-reveals-its-hiding-place/)
 
 ## Discovery of Gravitationally Unstable Planet-Forming Regions Through Time-Domain Astronomy
 
