@@ -8,9 +8,13 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja) or [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8002-8473&sort=date+desc).
 
 ## Lead-Author Papers
+**(9)** [A Protoplanet Candidate in the PDS 66 Disk Indicated by Silicon Sulfide Isotopologues](https://arxiv.org/abs/2602.12522) <br>
+**Tomohiro C. Yoshida**, Felipe Alarcón, Jaehan Bae, Myriam Benisty, Kiyoaki Doi, Stefano Facchini, Charles J. Law, Hideko Nomura, Laura Perez, Giovanni Rosotti, Yuhito Shibaike, Richard Teague, Takashi Tsukagoshi, Yoshihide Yamato <br>
+2026, The Astrophysical Journal Letters, in press
+
 **(8)** [Winding motion of spirals in a gravitationally unstable protoplanetary disk](https://ui.adsabs.harvard.edu/abs/2025NatAs.tmp..193Y/abstract) <br>
 **Tomohiro C. Yoshida**, Hideko Nomura, Kiyoaki Doi, Marcelo Barraza-Alfaro, Richard Teague, Kenji Furuya, Yoshihide Yamato, Takashi Tsukagoshi <br>
-2025, Nature Astronomy, https://doi.org/10.1038/s41550-025-02639-y
+2025, Nature Astronomy, 9, 1672–1679
 
 **(7)** [exoALMA. XIV. Gas Surface Densities in the RX J1604.3‑2130 A Disk from Pressure-broadened CO Line Wings](https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..19Y/abstract) <br>
 **Tomohiro C. Yoshida**, exoALMA collaboration <br>
