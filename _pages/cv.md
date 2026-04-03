@@ -11,6 +11,11 @@ redirect_from:
 
 A PDF version of my CV will be uploaded soon!
 
+Work Experience
+======
+* Oct. 2025 - Mar. 2026: JSPS Postdoctral Fellow at National Astronomical Observatory of Japan
+* Apr. 2026 - present : Post-doctral Fellow at Università degli Studi di Milano 
+
 Education
 ======
 * Ph.D., The Graduate University for Advanced Studies (SOKENDAI/NAOJ), 2025
