@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Y1a2300AAAAJ&hl=ja) or [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8002-8473&sort=date+desc).
 
 ## Lead-Author Papers
+**(10)** [Direct Retrieval of Protoplanetary Disk Dust Properties Using Auto-differentiable Gaussian Processes and Their Application to the HD 169142 Disk](https://ui.adsabs.harvard.edu/abs/2026ApJ..1007..198Y/abstract) <br>
+**Tomohiro C. Yoshida**, Enrique Macías, Giovanni Rosotti, Stefano Facchini, Elena Viscardi, Kiyoaki Doi<br>
+2026, The Astrophysical Journal, 1007, 198
+
 **(9)** [A Protoplanet Candidate in the PDS 66 Disk Indicated by Silicon Sulfide Isotopologues](https://ui.adsabs.harvard.edu/abs/2026arXiv260212522Y/abstract) <br>
 **Tomohiro C. Yoshida**, Felipe Alarcón, Jaehan Bae, Myriam Benisty, Kiyoaki Doi, Stefano Facchini, Charles J. Law, Hideko Nomura, Laura Perez, Giovanni Rosotti, Yuhito Shibaike, Richard Teague, Takashi Tsukagoshi, Yoshihide Yamato <br>
 2026, The Astrophysical Journal Letters, 999, L22
@@ -46,6 +50,26 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Co-Author Papers
 
+**(27)** [exoALMA. XXIII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets 2.0](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..16R/abstract) <br>
+Alessandro Ruzza, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
+2026, The Astrophysical Journal Letters, 1000, L16
+
+**(26)** [exoALMA XXII: A Two-dimensional Atlas of Deviations from Keplerian Disks](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..15F/abstract) <br>
+Misato Fukagawa, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
+2026, The Astrophysical Journal Letters, 1000, L15
+
+**(25)** [exoALMA. XXI. The Morphology and Dynamics of Vertical Flows](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..14B/abstract) <br>
+Myriam Benisty, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
+2026, The Astrophysical Journal Letters, 1000, L14
+
+**(24)** [ALMA Band 7 Observations of Water Lines in the Protoplanetary Disk of V883 Ori](https://ui.adsabs.harvard.edu/abs/2026ApJ...998...53N/abstract) <br>
+Hiroto Nakasone, Shota Notsu, **Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Tomoya Hirota, Mitsuhiko Honda, Eiji Akiyama, Alice S. Booth, Jeong-Eun Lee, Seokho Lee <br>
+2026, The Astrophysical Journal, 998, 53
+
+**(23)** [exoALMA. XIX. Confirmation of Non-thermal Line Broadening in the DM Tau Protoplanetary Disk](https://ui.adsabs.harvard.edu/abs/2026ApJ...997L..47H/abstract) <br>
+Caitlyn Hardiman, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
+2026, The Astrophysical Journal Letters, 997, L47
+
 **(22)** [exoALMA. XVIII. Interpreting large scale kinematic structures as moderate warping](https://ui.adsabs.harvard.edu/abs/2025arXiv250711669W/abstract) <br>
 Andrew J. Winter, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
 2025, The Astrophysical Journal Letters, 990, L10
@@ -53,7 +77,6 @@ Andrew J. Winter, ..., **Tomohiro C. Yoshida**, exoALMA collaboration <br>
 **(21)** [SO emission in the dynamically perturbed protoplanetary disks around CQ Tau and MWC 758](https://ui.adsabs.harvard.edu/abs/2025arXiv250616481Z/abstract) <br>
 Francesco Zagaria, Haochang Jiang, Gianni Cataldi, Stefano Facchini, Myriam Benisty, Yuri Aikawa, Sean Andrews, Jaehan Bae, Marcelo Barraza-Alfaro, Pietro Curone, Ian Czekala, Daniele Fasano, Cassandra Hall, Iain Hammond, Jane Huang, John D. Ilee, Andrés F. Izquierdo, Jensen Lawrence, Giuseppe Lodato, François Ménard, Christophe Pinte, Giovanni P. Rosotti, Jochen Stadler, Richard Teague, Leonardo Testi, David Wilner, Andrew Winter, and Tomohiro Yoshida <br>
 2025, The Astrophysical Journal, 989, 30
-
 
 **(20)** [Inner disc and circumplanetary material in the PDS 70 system: Insights from multi-epoch, multi-frequency ALMA observations](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.373F/abstract) <br>
 D. Fasano, M. Benisty, P. Curone, S. Facchini, F. Zagaria, **T. C. Yoshida**, K. Doi, A. Sierra, S. Andrews, J. Bae, A. Isella, N. Kurtovic, L. M. Pérez, P. Pinilla, L. Rampinelli, and R. Teague <br>
