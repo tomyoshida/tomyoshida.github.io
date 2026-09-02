@@ -156,7 +156,7 @@ Kiyoaki Doi, Akimasa Kataoka, Hauyu Baobab Liu, **Tomohiro C. Yoshida**, Myriam 
 
 **(1)** [Detection of HC<sup>18</sup>O<sup>+</sup> in a Protoplanetary Disk: Exploring Oxygen Isotope Fractionation of CO](https://ui.adsabs.harvard.edu/abs/2022ApJ...926..148F/abstract) <br>
 Kenji Furuya, Takashi Tsukagoshi, Chunhua Qi, Hideko Nomura, L. Ilsedore Cleeves, Seokho Lee, **Tomohiro C. Yoshida** <br>
-2022, The Astrophysical Journal, 026, 148
+2022, The Astrophysical Journal, 926, 148
 
 <!-- {% include base_path %} -->
 

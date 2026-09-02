@@ -7,6 +7,11 @@ author_profile: true
 Only lead-author oral and poster presentations are shown.
 
 ## International conferences and workshops
+**(20)** A New tool for retrieving dust properties in protoplanetary discs from ALMA data <br>
+**Tomohiro C. Yoshida** et al. <br>
+Oral, MIAPbP workshop: Planet Formation across various Environments and Epochs<br>
+20 May 2026, MIAPbP, Garching, Germany
+
 **(19)** Probing Gas Surface Density and Composition in Primary Planet-Forming Regions with ALMA: From Recent Results to the Broadband Era <br>
 **Tomohiro C. Yoshida** et al. <br>
 Oral (invited), Astrochemistry in the Broadband Era: ngVLA & ALMA WSU 2025<br>
