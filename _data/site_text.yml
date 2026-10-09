@@ -1,0 +1,133 @@
+en:
+  name: Tomohiro C. Yoshida
+  affiliation: Department of Physics, University of Milan
+  nav:
+    home: About
+    research: Research
+    publications: Publications
+    talks: Talks
+    cv: CV
+  paper_note: Publication titles and author names are shown in their original form.
+  lead: Lead-author papers
+  coauthor: Co-author papers
+  all: All
+  search: Search by title, author, or year
+  results: results
+  empty: No matching entries. Try another search or filter.
+  talks_intro: Lead-author oral and poster presentations at conferences and workshops.
+  talks_note: Titles, author names, and venue details are preserved in their original language.
+  international: International conferences
+  domestic: Conferences in Japan
+  work: Positions
+  education: Education
+  awards: Prizes
+  skip: Skip to content
+  language: Language
+  navigation: Main navigation
+  research_description: Observational studies of protoplanetary disks, planet formation, and isotope chemistry.
+  profile_alt: Portrait of Tomohiro Yoshida
+  home_title: Who?
+  affiliation_label: Affiliation
+  interest_label: Research interests
+  sidebar_bio: Observations of protoplanetary disks
+  follow: Follow
+  sitemap: Sitemap
+  home_greeting: Hi! I am Tomohiro Yoshida, an astronomer at [Università degli Studi di Milano](https://www.unimi.it/en)
+    in Italy.
+  home_research: To understand when, where, and how the solar system and planetary systems outside the solar system
+    were formed, I am working on observational studies of **protoplanetary disks**, the sites of planet formation.
+  interests:
+  - Physical and chemical structure of protoplanetary disks
+  - Isotope chemistry in star and planet forming regions
+  footer_follow: 'Follow:'
+  feed: Feed
+  powered_by: Powered by
+ja:
+  name: 吉田 有宏
+  affiliation: ミラノ大学 物理学科
+  nav:
+    home: プロフィール
+    research: 研究紹介
+    publications: 論文
+    talks: 発表
+    cv: 経歴
+  paper_note: 論文名・著者名は原文で掲載しています。
+  lead: 主著論文
+  coauthor: 共著論文
+  all: すべて
+  search: タイトル・著者・年で検索
+  results: 件
+  empty: 該当する項目がありません。検索語や絞り込みを変更してください。
+  talks_intro: 筆頭著者として行った、学会・研究会での口頭発表とポスター発表。
+  talks_note: 発表題目・著者名・会場情報は原文で掲載しています。
+  international: 国際学会・研究会
+  domestic: 国内学会・研究会
+  work: 職歴
+  education: 学歴
+  awards: 受賞歴
+  skip: 本文へ移動
+  language: 表示言語
+  navigation: メインナビゲーション
+  research_description: 原始惑星系円盤、惑星形成、同位体化学の観測的研究。
+  profile_alt: 吉田有宏のポートレート
+  home_title: 誰？
+  affiliation_label: 所属
+  interest_label: 関心のある研究テーマ
+  sidebar_bio: 原始惑星系円盤の観測的研究
+  follow: リンク
+  sitemap: サイトマップ
+  home_greeting: こんにちは、私は<ruby>吉田<rp>（</rp><rt>よしだ</rt><rp>）</rp></ruby> <ruby>有宏<rp>（</rp><rt>ともひろ</rt><rp>）</rp></ruby>です。イタリアの[ミラノ大学](https://www.unimi.it/en)の天文学者（ポストドクトラルフェロー）です。
+  home_research: 私は、太陽系や太陽系の外に存在する多種多様な惑星がいつ・どこで・どのように形成されたのかを明らかにするために、惑星系形成の現場である**原始惑星系円盤**の観測的研究を行なっています。
+  interests:
+  - 原始惑星系円盤の物理・化学構造：何がどこにどのくらいあって、どのような物理過程が起きているのか？
+  - 物質の起源と進化を追うために重要な、同位体化学
+  footer_follow: リンク：
+  feed: フィード
+  powered_by: サイト構築：
+it:
+  name: Tomohiro C. Yoshida
+  affiliation: Dipartimento di Fisica, Università degli Studi di Milano
+  nav:
+    home: Profilo
+    research: Ricerca
+    publications: Pubblicazioni
+    talks: Presentazioni
+    cv: CV
+  paper_note: I titoli degli articoli e i nomi degli autori sono riportati nella forma originale.
+  lead: Articoli come primo autore
+  coauthor: Articoli in collaborazione
+  all: Tutti
+  search: Cerca per titolo, autore o anno
+  results: risultati
+  empty: Nessun risultato. Prova un’altra ricerca o modifica il filtro.
+  talks_intro: Presentazioni orali e poster come primo autore a conferenze e workshop.
+  talks_note: Titoli, nomi degli autori e dettagli delle sedi sono riportati nella lingua originale.
+  international: Conferenze internazionali
+  domestic: Conferenze in Giappone
+  work: Incarichi accademici
+  education: Formazione
+  awards: Premi
+  skip: Vai al contenuto
+  language: Lingua
+  navigation: Navigazione principale
+  research_description: Studi osservativi dei dischi protoplanetari, della formazione planetaria e della chimica
+    isotopica.
+  profile_alt: Ritratto di Tomohiro Yoshida
+  home_title: Chi sono
+  affiliation_label: Affiliazione
+  interest_label: Interessi di ricerca
+  sidebar_bio: Osservazioni dei dischi protoplanetari
+  follow: Link
+  sitemap: Mappa del sito
+  home_greeting: Ciao! Sono Tomohiro Yoshida, astronomo e ricercatore postdoc presso l’[Università degli Studi di
+    Milano](https://www.unimi.it/it), in Italia.
+  home_research: Per capire quando, dove e come si sono formati il Sistema solare e gli altri sistemi planetari,
+    studio attraverso le osservazioni i **dischi protoplanetari**, i luoghi in cui nascono i pianeti.
+  interests:
+  - 'Struttura fisica e chimica dei dischi protoplanetari: quali materiali contengono, dove si trovano, in quali
+    quantità e quali processi fisici vi avvengono?'
+  - Chimica isotopica nelle regioni di formazione stellare e planetaria, per ricostruire l’origine e l’evoluzione
+    della materia
+  footer_follow: 'Link:'
+  feed: Feed
+  powered_by: Realizzato con

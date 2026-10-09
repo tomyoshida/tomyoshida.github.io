@@ -1,0 +1,143 @@
+# Source: part_B2.pdf; wording and displayed details adjusted at the author’s request.
+
+work:
+
+- period:
+    en: 1 Apr 2026 — present
+    ja: 2026年4月1日 — 現在
+    it: 1 apr 2026 — oggi
+  title:
+    en: Postdoctoral Fellow
+    ja: ポストドクトラルフェロー
+    it: Ricercatore postdoc
+  place:
+    en: Department of Physics, University of Milan, Italy
+    ja: ミラノ大学 物理学科（イタリア）
+    it: Dipartimento di Fisica, Università degli Studi di Milano, Italia
+
+- period:
+    en: 1 Oct 2025 — 31 Mar 2026
+    ja: 2025年10月1日 — 2026年3月31日
+    it: 1 ott 2025 — 31 mar 2026
+  title:
+    en: Japan Society for the Promotion of Science Postdoctoral Fellow
+    ja: 日本学術振興会 特別研究員（博士研究員）
+    it: Ricercatore postdoc della Japan Society for the Promotion of Science
+  place:
+    en: National Astronomical Observatory of Japan
+    ja: 国立天文台
+    it: Osservatorio Astronomico Nazionale del Giappone
+
+- period:
+    en: 1 Apr 2023 — 30 Sep 2025
+    ja: 2023年4月1日 — 2025年9月30日
+    it: 1 apr 2023 — 30 set 2025
+  title:
+    en: Japan Society for the Promotion of Science Doctoral Fellow DC1
+    ja: 日本学術振興会 特別研究員DC1
+    it: Borsista di dottorato DC1 della Japan Society for the Promotion of Science
+  place:
+    en: National Astronomical Observatory of Japan
+    ja: 国立天文台
+    it: Osservatorio Astronomico Nazionale del Giappone
+
+- period:
+    en: 1 Apr 2021 — 31 Mar 2023
+    ja: 2021年4月1日 — 2023年3月31日
+    it: 1 apr 2021 — 31 mar 2023
+  title:
+    en: National Astronomical Observatory of Japan Junior Fellow
+    ja: 国立天文台ジュニアフェロー
+    it: Junior Fellow presso l’Osservatorio Astronomico Nazionale del Giappone
+
+education:
+
+- period:
+    en: 1 Apr 2021 — 30 Sep 2025
+    ja: 2021年4月1日 — 2025年9月30日
+    it: 1 apr 2021 — 30 set 2025
+  title:
+    en: Ph.D. in Science
+    ja: 博士（理学）
+    it: Dottorato di ricerca in Scienze
+  place:
+    en: National Astronomical Observatory of Japan / The Graduate University for Advanced Studies
+    ja: 国立天文台／総合研究大学院大学
+    it: Osservatorio Astronomico Nazionale del Giappone / The Graduate University for Advanced Studies
+  details:
+  - en: 'Supervisor: Prof. Hideko Nomura'
+    ja: 指導教員：野村英子教授
+    it: 'Supervisore: Prof.ssa Hideko Nomura'
+  - en: 'Research focus: physical and chemical structure of protoplanetary disks'
+    ja: 研究テーマ：原始惑星系円盤の物理・化学構造
+    it: 'Tema di ricerca: struttura fisica e chimica dei dischi protoplanetari'
+  - en: 'Thesis: Measuring Gas Surface Densities in Protoplanetary Disks via Line Pressure Broadening'
+    ja: 博士論文：Measuring Gas Surface Densities in Protoplanetary Disks via Line Pressure Broadening
+    it: 'Tesi: Measuring Gas Surface Densities in Protoplanetary Disks via Line Pressure Broadening'
+
+- period:
+    en: 1 Apr 2017 — 31 Mar 2021
+    ja: 2017年4月1日 — 2021年3月31日
+    it: 1 apr 2017 — 31 mar 2021
+  title:
+    en: BSc
+    ja: 学士（理学）
+    it: Laurea in Scienze (BSc)
+  place:
+    en: Astrophysics, Faculty of Science, Kyoto University
+    ja: 京都大学 理学部 宇宙物理系
+    it: Astrofisica, Facoltà di Scienze, Università di Kyoto
+
+awards:
+
+- period:
+    en: 26 Sep 2025
+    ja: 2025年9月26日
+    it: 26 set 2025
+  title:
+    en: 15th SOKENDAI Award (President’s Award)
+    ja: 第15回SOKENDAI賞
+    it: 15° Premio SOKENDAI (Premio del Rettore)
+  place:
+    en: The Graduate University for Advanced Studies
+    ja: 総合研究大学院大学
+    it: The Graduate University for Advanced Studies
+
+- period:
+    en: 24 Sep 2024
+    ja: 2024年9月24日
+    it: 24 set 2024
+  title:
+    en: Best Presentation Award
+    ja: 最優秀発表賞
+    it: Premio per la migliore presentazione
+  place:
+    en: Japanese Society for Planetary Science Fall Meeting 2024
+    ja: 日本惑星科学会2024年秋季講演会
+    it: Convegno autunnale 2024 della Società Giapponese di Scienze Planetarie
+
+- period:
+    en: 25 Mar 2023
+    ja: 2023年3月25日
+    it: 25 mar 2023
+  title:
+    en: Outstanding Student Presentation Award
+    ja: 学生優秀発表賞
+    it: Premio per la migliore presentazione studentesca
+  place:
+    en: Japan Geoscience Union Meeting 2023, Space and Planetary Sciences Section
+    ja: 日本地球惑星科学連合2023年大会 宇宙惑星科学セクション
+    it: Convegno 2023 della Japan Geoscience Union, sezione di Scienze Spaziali e Planetarie
+
+- period:
+    en: 24 Aug 2022
+    ja: 2022年8月24日
+    it: 24 ago 2022
+  title:
+    en: Oral Award
+    ja: オーラルアワード
+    it: Premio per la presentazione orale
+  place:
+    en: 52nd Summer School of Young Japanese Astronomers, Star and Planet Formation session
+    ja: 第52回 天文・天体物理若手夏の学校 星・惑星形成分科会
+    it: 52ª Scuola estiva dei giovani astronomi giapponesi, sessione sulla formazione stellare e planetaria

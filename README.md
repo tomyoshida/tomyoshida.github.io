@@ -1,31 +1,47 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Tomohiro Yoshida — academic website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+日本語・英語・イタリア語に対応した個人研究サイト。
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## 更新する
 
-# Instructions
+以下のファイルを開き、既存の項目をコピーして書き換え、保存します。
+論文・発表は一度の編集で3言語に反映されます。
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+- 論文: [_data/publications.yml](_data/publications.yml)
+- 発表: [_data/talks.yml](_data/talks.yml)
+- CV: [_data/career.yml](_data/career.yml)
+- プロフィール・翻訳: [_data/site_text.yml](_data/site_text.yml)
+- 研究本文: `_includes/academic/research-ja.md`（英語は `-en.md`、イタリア語は `-it.md`）
 
-See more info at https://academicpages.github.io/
+**コピー用の例と公開手順: [更新方法](docs/UPDATING.md)**
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+GitHub上の編集画面でも更新できます。公開ブランチへ変更を反映すると、GitHub Pagesがサイトを生成します。
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## デザイン
 
-# Changelog -- bugfixes and enhancements
+- 共通テンプレート: `_layouts/academic.html`
+- ヘッダー: `_includes/academic/masthead.html`
+- 表示調整: `assets/css/academic.css`
+- 配色: `_sass/_variables.scss`
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## クレジット
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+AcademicPages / Minimal Mistakesをベースにしています。Minimal Mistakes © 2016 Michael Rose、MIT License。ライセンスは [LICENSE](LICENSE) を参照してください。
+
+## フォルダ案内
+
+普段の更新は `_data/` と研究本文だけで完結します。
+
+| フォルダ | 用途 |
+| --- | --- |
+| `_data/` | 論文・発表・経歴・3言語の文章 |
+| `_includes/academic/` | 研究本文とページの部品 |
+| `_pages/` | 各言語のURL設定、404、サイトマップ |
+| `_layouts/` | 共通のページ構造 |
+| `images/` | 使用中の顔写真と研究アニメーション |
+| `assets/`・`_sass/` | デザイン、フォント、動作に必要なテーマ部品 |
+| `docs/` | 更新手順 |
+| `scripts/` | サイトの確認用Rubyスクリプト（通常の更新には不要） |
+| `_site/` | 自動生成されるプレビュー。直接編集しません |
+
+`_config.yml` はサイト設定、`Gemfile` はJekyllの依存関係、`LICENSE` は利用元テーマのライセンスです。`google0387967501c2b08f.html` はGoogleの所有権確認用です。

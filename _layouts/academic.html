@@ -1,0 +1,71 @@
+{% assign t = site.data.site_text[page.lang] %}
+{% assign root = '/' | append: page.lang | append: '/' %}
+{% assign section_path = page.section | append: '/' %}{% if page.section == 'home' %}{% assign section_path = '' %}{% endif %}
+<!doctype html>
+<html lang="{{ page.lang }}" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ t.nav[page.section] | default: page.title }} - {{ site.title }}</title>
+  <meta name="description" content="{{ t.research_description | escape }}">
+  <meta name="theme-color" content="#252a34">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% assign languages = 'en,ja,it' | split: ',' %}
+  {% for language in languages %}{% capture alternate %}/{{ language }}/{{ section_path }}{% endcapture %}
+  <link rel="alternate" hreflang="{{ language }}" href="{{ alternate | absolute_url }}">
+  {% endfor %}
+  {% capture default_url %}/en/{{ section_path }}{% endcapture %}
+  <link rel="alternate" hreflang="x-default" href="{{ default_url | absolute_url }}">
+  <meta property="og:title" content="{{ t.nav[page.section] | default: page.title }} - {{ t.name }}">
+  <meta property="og:description" content="{{ t.research_description | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/tomyoshida.jpg' | absolute_url }}">
+  <script>document.documentElement.className = 'js';</script>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  <script src="{{ '/assets/js/navigation.js' | relative_url }}" defer></script>
+</head>
+<body class="academic-site academic-{{ page.section }}">
+<a class="skip-link" href="#main">{{ t.skip }}</a>
+{% include academic/masthead.html %}
+<div id="main" role="main" tabindex="-1">
+  {% include sidebar.html %}
+  {% if page.section == 'home' %}<article class="page"><div class="page__inner-wrap">
+    <header><h1 class="page__title">{{ t.home_title }}</h1></header>
+    <section class="page__content">
+      {% if page.lang == 'it' %}<p class="translation-note">Questa versione italiana è stata tradotta con ChatGPT e potrebbe contenere errori.</p>{% endif %}
+      {{ t.home_greeting | markdownify }}
+      {{ t.home_research | markdownify }}
+      <h3>{{ t.affiliation_label }}</h3>
+      <p><a href="https://www.unimi.it/it/ugov/ou-structure/dipartimento-di-fisica-aldo-pontremoli">{{ t.affiliation }}</a></p>
+      <h3>{{ t.interest_label }}</h3>
+      <ul>{% for interest in t.interests %}<li>{{ interest }}</li>{% endfor %}</ul>
+    </section>
+  </div></article>
+  {% else %}<div class="archive">
+    <h1 class="page__title">{{ t.nav[page.section] | default: page.title }}</h1>
+    {% if page.lang == 'it' %}<p class="translation-note">Questa versione italiana è stata tradotta con ChatGPT e potrebbe contenere errori.</p>{% endif %}
+    {% case page.section %}
+    {% when 'research' %}
+      {% capture research %}{% case page.lang %}{% when 'ja' %}{% include academic/research-ja.md %}{% when 'it' %}{% include academic/research-it.md %}{% else %}{% include academic/research-en.md %}{% endcase %}{% endcapture %}{{ research | markdownify }}
+    {% when 'publications' %}{% include academic/publications.html %}
+    {% when 'talks' %}{% include academic/talks.html %}
+    {% when 'cv' %}
+      {% assign categories = 'work,education,awards' | split: ',' %}
+      {% for category in categories %}<h2>{{ t[category] }}</h2><ul>
+        {% for item in site.data.career[category] %}<li>{{ item.period[page.lang] }}: {{ item.title[page.lang] }}{% if item.place %}, {{ item.place[page.lang] }}{% endif %}{% if item.details %}<ul>{% for detail in item.details %}<li>{{ detail[page.lang] | escape }}</li>{% endfor %}</ul>{% endif %}</li>{% endfor %}
+      </ul>{% endfor %}
+    {% else %}{{ content }}
+    {% endcase %}
+  </div>{% endif %}
+</div>
+<div class="page__footer"><footer>
+  <a href="{{ '/sitemap/' | relative_url }}">{{ t.sitemap }}</a>
+  {% include footer.html %}
+</footer></div>
+{% assign base_path = site.baseurl %}
+{% include scripts.html %}
+</body>
+</html>

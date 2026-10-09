@@ -1,0 +1,14 @@
+<p>{{ t.talks_intro }}</p>
+<div class="talk-list">
+{% assign groups = 'international,domestic' | split: ',' %}
+{% for group in groups %}<section data-group-section>
+  <h2>{{ t[group] }}</h2>
+  {% assign talks = site.data.talks | where: 'group', group | sort: 'date' | reverse %}
+  {% for talk in talks %}<div class="bibliography-entry" data-entry data-group="{{ talk.group }}">
+    <strong>({{ forloop.rindex }})</strong> <span lang="{{ talk.language }}">{{ talk.title }}</span><br>
+    {{ talk.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
+    {{ talk.format | escape }}, {{ talk.event | escape }}<br>
+    <time datetime="{{ talk.date }}">{{ talk.date_label | escape }}</time>, {{ talk.location | escape }}
+  </div>{% endfor %}
+</section>{% endfor %}
+</div>

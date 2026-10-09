@@ -1,0 +1,284 @@
+- title: Direct Retrieval of Protoplanetary Disk Dust Properties Using Auto-differentiable Gaussian Processes and
+    Their Application to the HD 169142 Disk
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1007..198Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Enrique Macías, Giovanni Rosotti, Stefano Facchini, Elena Viscardi, Kiyoaki
+    Doi'
+  citation: 2026, The Astrophysical Journal, 1007, 198
+  year: 2026
+  group: lead
+
+- title: A Protoplanet Candidate in the PDS 66 Disk Indicated by Silicon Sulfide Isotopologues
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260212522Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Felipe Alarcón, Jaehan Bae, Myriam Benisty, Kiyoaki Doi, Stefano Facchini,
+    Charles J. Law, Hideko Nomura, Laura Perez, Giovanni Rosotti, Yuhito Shibaike, Richard Teague, Takashi Tsukagoshi,
+    Yoshihide Yamato'
+  citation: 2026, The Astrophysical Journal Letters, 999, L22
+  year: 2026
+  group: lead
+
+- title: Winding motion of spirals in a gravitationally unstable protoplanetary disk
+  url: https://ui.adsabs.harvard.edu/abs/2025NatAs.tmp..193Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Hideko Nomura, Kiyoaki Doi, Marcelo Barraza-Alfaro, Richard Teague, Kenji Furuya,
+    Yoshihide Yamato, Takashi Tsukagoshi'
+  citation: 2025, Nature Astronomy, 9, 1672–1679
+  year: 2025
+  group: lead
+
+- title: exoALMA. XIV. Gas Surface Densities in the RX J1604.3‑2130 A Disk from Pressure-broadened CO Line Wings
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..19Y/abstract
+  authors: '**Tomohiro C. Yoshida**, exoALMA collaboration'
+  citation: 2025, The Astrophysical Journal Letters, 984, L19
+  year: 2025
+  group: lead
+
+- title: Dust Scattering Albedo at Millimeter Wavelengths in the TW Hya Disk
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...980...50Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kiyoaki Doi, Kenji Furuya, Akimasa Kataoka'
+  citation: 2025, The Astrophysical Journal, 980, 50
+  year: 2025
+  group: lead
+
+- title: Outflow Driven by a Protoplanet Embedded in the TW Hya Disk
+  url: https://ui.adsabs.harvard.edu/abs/2024ApJ...971L..15Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Hideko Nomura, Charles J. Law, Richard Teague, Yuhito Shibaike, Kenji Furuya,
+    Takashi Tsukagoshi'
+  citation: 2024, The Astrophysical Journal Letters, 971, L15
+  year: 2024
+  group: lead
+
+- title: The First Spatially-resolved Detection of <sup>13</sup>CN in a Protoplanetary Disk and Evidence for Complex
+    Carbon Isotope Fractionation
+  url: https://ui.adsabs.harvard.edu/abs/2024ApJ...966...63Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Richard Teague, Charles J. Law, Takashi Tsukagoshi,
+    Seokho Lee, Christian Rab, Karin I. Öberg, Ryan A. Loomis'
+  citation: 2024, The Astrophysical Journal, 966, 63
+  year: 2024
+  group: lead
+
+- title: Discovery of Line Pressure Broadening and Direct Constraint on Gas Surface Density in a Protoplanetary
+    Disk
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...937L..14Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Kenji Furuya, Takahiro Ueda'
+  citation: 2022, The Astrophysical Journal Letters, 937, L14
+  year: 2022
+  group: lead
+
+- title: 'A New Method for Direct Measurament of Isotopologue Ratios in Protoplanetary Disks: A Case Study of the
+    <sup>12</sup>CO/<sup>13</sup>CO Ratio in the TW Hya Disk'
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...932..126Y/abstract
+  authors: '**Tomohiro C. Yoshida**, Hideko Nomura, Kenji Furuya, Takashi Tsukagoshi, Seokho Lee'
+  citation: 2022, The Astrophysical Journal, 932, 126
+  year: 2022
+  group: lead
+
+- title: Multi-epoch Submillimeter Array Observations of the L1448C(N) Protostellar SiO Jet
+  url: https://ui.adsabs.harvard.edu/abs/2021ApJ...906..112Y/abstract
+  authors: '**Tomohiro Yoshida**, Tien-Hao Hsieh, Naomi Hirano, Yusuke Aso'
+  citation: 2021, The Astrophysical Journal, 906, 112
+  year: 2021
+  group: lead
+
+- title: exoALMA. XXIII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets 2.0
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..16R/abstract
+  authors: Alessandro Ruzza, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2026, The Astrophysical Journal Letters, 1000, L16
+  year: 2026
+  group: coauthor
+
+- title: 'exoALMA XXII: A Two-dimensional Atlas of Deviations from Keplerian Disks'
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..15F/abstract
+  authors: Misato Fukagawa, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2026, The Astrophysical Journal Letters, 1000, L15
+  year: 2026
+  group: coauthor
+
+- title: exoALMA. XXI. The Morphology and Dynamics of Vertical Flows
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..14B/abstract
+  authors: Myriam Benisty, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2026, The Astrophysical Journal Letters, 1000, L14
+  year: 2026
+  group: coauthor
+
+- title: ALMA Band 7 Observations of Water Lines in the Protoplanetary Disk of V883 Ori
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ...998...53N/abstract
+  authors: Hiroto Nakasone, Shota Notsu, **Tomohiro C. Yoshida**, Hideko Nomura, Takashi Tsukagoshi, Tomoya Hirota,
+    Mitsuhiko Honda, Eiji Akiyama, Alice S. Booth, Jeong-Eun Lee, Seokho Lee
+  citation: 2026, The Astrophysical Journal, 998, 53
+  year: 2026
+  group: coauthor
+
+- title: exoALMA. XIX. Confirmation of Non-thermal Line Broadening in the DM Tau Protoplanetary Disk
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ...997L..47H/abstract
+  authors: Caitlyn Hardiman, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2026, The Astrophysical Journal Letters, 997, L47
+  year: 2026
+  group: coauthor
+
+- title: exoALMA. XVIII. Interpreting large scale kinematic structures as moderate warping
+  url: https://ui.adsabs.harvard.edu/abs/2025arXiv250711669W/abstract
+  authors: Andrew J. Winter, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 990, L10
+  year: 2025
+  group: coauthor
+
+- title: SO emission in the dynamically perturbed protoplanetary disks around CQ Tau and MWC 758
+  url: https://ui.adsabs.harvard.edu/abs/2025arXiv250616481Z/abstract
+  authors: Francesco Zagaria, Haochang Jiang, Gianni Cataldi, Stefano Facchini, Myriam Benisty, Yuri Aikawa, Sean
+    Andrews, Jaehan Bae, Marcelo Barraza-Alfaro, Pietro Curone, Ian Czekala, Daniele Fasano, Cassandra Hall, Iain
+    Hammond, Jane Huang, John D. Ilee, Andrés F. Izquierdo, Jensen Lawrence, Giuseppe Lodato, François Ménard, Christophe
+    Pinte, Giovanni P. Rosotti, Jochen Stadler, Richard Teague, Leonardo Testi, David Wilner, Andrew Winter, and
+    Tomohiro Yoshida
+  citation: 2025, The Astrophysical Journal, 989, 30
+  year: 2025
+  group: coauthor
+
+- title: 'Inner disc and circumplanetary material in the PDS 70 system: Insights from multi-epoch, multi-frequency
+    ALMA observations'
+  url: https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.373F/abstract
+  authors: D. Fasano, M. Benisty, P. Curone, S. Facchini, F. Zagaria, **T. C. Yoshida**, K. Doi, A. Sierra, S. Andrews,
+    J. Bae, A. Isella, N. Kurtovic, L. M. Pérez, P. Pinilla, L. Rampinelli, and R. Teague
+  citation: 2025, Astronomy & Astrophysics, 699, A373
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. XVII. Characterizing the Gas Dynamics around Dust Asymmetries
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..22W/abstract
+  authors: Lisa Wölfer, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L22
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. XVI. Predicting Signatures of Large-scale Turbulence in Protoplanetary Disks
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..21B/abstract
+  authors: Marcelo Barraza-Alfaro, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L21
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. XV. Interpreting the Height of CO Emission Layer
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..20R/abstract
+  authors: Giovanni P. Rosotti, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L20
+  year: 2025
+  group: coauthor
+
+- title: 'exoALMA. XIII. Gas Masses from N2H+ and C18O: A Comparison of Measurement Techniques for Protoplanetary
+    Gas Disk Masses'
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..18T/abstract
+  authors: Leon Trapman,  ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L18
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. XII. Weighing and Sizing exoALMA Disks with Rotation Curve Modelling
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..17L/abstract
+  authors: Cristiano Longarini, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L17
+  year: 2025
+  group: coauthor
+
+- title: 'exoALMA. XI. ALMA Observations and Hydrodynamic Models of LkCa 15: Implications for Planetary Mass Companions
+    in the Dust Continuum Cavity'
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..16G/abstract
+  authors: Charles H. Gardner,  ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L16
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. X. Channel Maps Reveal Complex 12CO Abundance Distributions and a Variety of Kinematic Structures
+    with Evidence for Embedded Planets
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..15P/abstract
+  authors: Christophe Pinte, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L15
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. IX. Regularized Maximum Likelihood Imaging of Non-Keplerian Features
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..14Z/abstract
+  authors: Brianna Zawadzki, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L14
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. VIII. Probabilistic Moment Maps and Data Products Using Nonparametric Linear Models
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..13H/abstract
+  authors: Thomas Hilder, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L13
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. VII. Benchmarking Hydrodynamics and Radiative Transfer Codes
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..12B/abstract
+  authors: Jaehan Bae, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L12
+  year: 2025
+  group: coauthor
+
+- title: 'exoALMA. VI. Rotating under Pressure: Rotation Curves, Azimuthal Velocity Substructures, and Gas Pressure
+    Variations'
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..11S/abstract
+  authors: Jochen Stadler, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L11
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. V. Gaseous Emission Surfaces and Temperature Structures
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L..10G/abstract
+  authors: Maria Galloway-Sprietsma, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L10
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. IV. Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L...9C/abstract
+  authors: Pietro Curone, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L9
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. III. Line-intensity Modeling and System Property Extraction from Protoplanetary Disks
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L...8I/abstract
+  authors: Andrés F. Izquierdo, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L8
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. II. Data Calibration and Imaging Pipeline
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L...7L/abstract
+  authors: Ryan Loomis, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L7
+  year: 2025
+  group: coauthor
+
+- title: exoALMA. I. Science Goals, Project Design, and Data Products
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...984L...6T/abstract
+  authors: Richard Teague, ..., **Tomohiro C. Yoshida**, exoALMA collaboration
+  citation: 2025, The Astrophysical Journal Letters, 984, L6
+  year: 2025
+  group: coauthor
+
+- title: 'Dust characterization of protoplanetary disks: A guide to multi-wavelength analyses and accurate dust
+    mass measurements'
+  url: https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.147V/abstract
+  authors: Elena M. Viscardi, Enrique Macías, Francesco Zagaria, Anibal Sierra, Haochang Jiang, **Tomohiro C. Yoshida**,
+    Pietro Curone
+  citation: 2025, Astronomy & Astrophysics, 695, A147
+  year: 2025
+  group: coauthor
+
+- title: Asymmetric dust accumulation of the PDS 70 disk revealed by ALMA Band 3 observations
+  url: https://ui.adsabs.harvard.edu/abs/2024ApJ...974L..25D/citations
+  authors: Kiyoaki Doi, Akimasa Kataoka, Hauyu Baobab Liu, **Tomohiro C. Yoshida**, Myriam Benisty, Ruobing Dong,
+    Yoshihide Yamato, Jun Hashimoto
+  citation: 2024, The Astrophysical Journal Letters, 974, L25
+  year: 2024
+  group: coauthor
+
+- title: 'Detection of HC<sup>18</sup>O<sup>+</sup> in a Protoplanetary Disk: Exploring Oxygen Isotope Fractionation
+    of CO'
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...926..148F/abstract
+  authors: Kenji Furuya, Takashi Tsukagoshi, Chunhua Qi, Hideko Nomura, L. Ilsedore Cleeves, Seokho Lee, **Tomohiro
+    C. Yoshida**
+  citation: 2022, The Astrophysical Journal, 926, 148
+  year: 2022
+  group: coauthor
