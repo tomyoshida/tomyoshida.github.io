@@ -11,10 +11,10 @@
   <meta name="theme-color" content="#252a34">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% assign languages = 'en,ja,it' | split: ',' %}
-  {% for language in languages %}{% capture alternate %}/{{ language }}/{{ section_path }}{% endcapture %}
+  {% for language in languages %}{% capture alternate %}/{{ language }}/{{ section_path }}{% endcapture %}{% if language == "en" and page.section == "home" %}{% assign alternate = "/" %}{% endif %}
   <link rel="alternate" hreflang="{{ language }}" href="{{ alternate | absolute_url }}">
   {% endfor %}
-  {% capture default_url %}/en/{{ section_path }}{% endcapture %}
+  {% capture default_url %}/en/{{ section_path }}{% endcapture %}{% if page.section == "home" %}{% assign default_url = "/" %}{% endif %}
   <link rel="alternate" hreflang="x-default" href="{{ default_url | absolute_url }}">
   <meta property="og:title" content="{{ t.nav[page.section] | default: page.title }} - {{ t.name }}">
   <meta property="og:description" content="{{ t.research_description | escape }}">

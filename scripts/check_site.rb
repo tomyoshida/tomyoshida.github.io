@@ -34,14 +34,15 @@ check(File.directory?('_site'), 'Run jekyll build first')
 sections = ['', 'research/', 'publications/', 'talks/', 'cv/']
 %w[en ja it].each do |lang|
   sections.each do |section|
-    file = "_site/#{lang}/#{section}index.html"
+    file = lang == 'en' && section.empty? ? '_site/index.html' : "_site/#{lang}/#{section}index.html"
     check(File.file?(file), "missing #{file}")
     content = File.read(file)
     check(content.include?("<html lang=\"#{lang}\""), "wrong language: #{file}")
     check(content.scan(/<h1[ >]/).length == 1, "expected one h1: #{file}")
     check(!content.include?('{%') && !content.include?('{{'), "unrendered Liquid: #{file}")
     %w[en ja it].each do |alternate|
-      check(content.include?("href=\"/#{alternate}/#{section}\""), "missing language switch #{alternate}: #{file}")
+      alternate_path = alternate == 'en' && section.empty? ? '/' : "/#{alternate}/#{section}"
+      check(content.include?("href=\"#{alternate_path}\""), "missing language switch #{alternate}: #{file}")
     end
     content.scan(/(?:href|src)="([^"]+)"/).flatten.each do |raw|
       url = CGI.unescapeHTML(raw)
@@ -58,8 +59,12 @@ sections = ['', 'research/', 'publications/', 'talks/', 'cv/']
     end
   end
 end
-{'/' => '/en/', '/publications/' => '/en/publications/', '/talks/' => '/en/talks/', '/cv/' => '/en/cv/', '/research/' => '/ja/research/', '/research_en/' => '/en/research/'}.each do |old, new_path|
+{'/en/' => '/', '/publications/' => '/en/publications/', '/talks/' => '/en/talks/', '/cv/' => '/en/cv/', '/research/' => '/ja/research/', '/research_en/' => '/en/research/'}.each do |old, new_path|
   path = "_site#{old}index.html"
   check(File.file?(path) && File.read(path).include?(new_path), "missing redirect #{old}")
 end
-puts 'OK: 15 localized pages, entry counts, language links, assets, and legacy redirects'
+home = File.read('_site/index.html')
+check(!home.match?(/noindex|http-equiv="refresh"/i), 'root homepage must not be noindex or redirect')
+config = YAML.load_file('_config.yml')
+check(home.include?(%Q{rel="canonical" href="#{config['url']}/"}), 'root canonical must point to root')
+puts 'OK: 15 localized pages, entry counts, language links, assets, legacy redirects, and indexable root'

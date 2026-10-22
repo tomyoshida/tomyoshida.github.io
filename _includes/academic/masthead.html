@@ -1,7 +1,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="academic-header">
-      <a class="academic-brand" href="{{ root | relative_url }}">{{ site.title }}</a>
+      <a class="academic-brand" href="{% if page.lang == "en" %}{{ "/" | relative_url }}{% else %}{{ root | relative_url }}{% endif %}">{{ site.title }}</a>
       <button class="academic-menu-toggle" type="button" aria-label="{{ t.navigation }}" aria-expanded="false" aria-controls="academic-navigation" hidden><span></span><span></span><span></span></button>
       <nav id="academic-navigation" class="academic-navigation" aria-label="{{ t.navigation }}">
         {% assign sections = 'research,publications,talks,cv' | split: ',' %}
@@ -10,7 +10,7 @@
         {% endfor %}
       </nav>
       <nav class="language-switch" aria-label="{{ t.language }}">
-        {% for language in languages %}{% capture alternate %}/{{ language }}/{{ section_path }}{% endcapture %}
+        {% for language in languages %}{% capture alternate %}/{{ language }}/{{ section_path }}{% endcapture %}{% if language == "en" and page.section == "home" %}{% assign alternate = "/" %}{% endif %}
         <a href="{{ alternate | relative_url }}" lang="{{ language }}" hreflang="{{ language }}" {% if page.lang == language %}aria-current="true"{% endif %}>{% case language %}{% when 'en' %}English{% when 'ja' %}日本語{% when 'it' %}Italiano{% endcase %}</a>
         {% endfor %}
       </nav>

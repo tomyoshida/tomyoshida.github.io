@@ -75,7 +75,7 @@ bundle install
 bundle exec jekyll serve --config _config.yml,_config.dev.yml
 ```
 
-`http://localhost:4000/en/`、`/ja/`、`/it/` を開きます。ビルドのみ行う場合:
+`http://localhost:4000/`、`/ja/`、`/it/` を開きます。ビルドのみ行う場合:
 
 ```sh
 bundle exec jekyll build
@@ -90,9 +90,10 @@ ruby scripts/check_site.rb
 
 各言語にプロフィール・研究・論文・発表・経歴の5ページがあります。言語切り替えでは現在のページ種別を保ちます。
 
-- `/en/`, `/ja/`, `/it/`
+- 英語トップ `/`、日本語トップ `/ja/`、イタリア語トップ `/it/`
+- 旧英語トップ `/en/` と `/about/` は `/` へ転送
 - 各言語の `/research/`, `/publications/`, `/talks/`, `/cv/`
-- 旧 `/`、`/about/`、`/publications/`、`/talks/`、`/cv/`、`/research_en/` は対応する英語版へ転送
+- 旧 `/publications/`、`/talks/`、`/cv/`、`/research_en/` は対応する英語版へ転送
 - 旧 `/research/` は日本語の研究ページへ転送
 
 AcademicPagesの既存CSS、プロフィール部品、フッター、モバイルナビゲーションを使用しています。補助ページは404ページとサイトマップだけを残しています。
